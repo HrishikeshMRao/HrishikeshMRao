@@ -1,23 +1,23 @@
 ![MasterHead](https://wallpapercave.com/wp/wp6830287.gif)
 <h1 align="center">Hi 👋, I'm Hrishikesh M Rao</h1>
 <h3 align="center">Hello visitor, I am an ECE undergraduate developing my IT skills. Majorly as an Android developer and a machine learning engineer.</h3>
-<img align="center" alt = "Coding" width="300" src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikeshmrao&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshmrao" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hrishikeshmrao&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshmrao" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishikeshmrao" alt="hrishikeshmrao" /></a> </p>
+<img align="center" alt = "Coding" width="1000" src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Tetris game**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HrishikeshMRao](https://github.com/HrishikeshMRao)
+- 👨‍💻 All of my projects are available at [HrishikeshMRao](https://github.com/HrishikeshMRao)
 
 - 💬 Ask me about **PCB design, Logistic regression, Android studio**
 
 - 📫 How to reach me **mraohrishikesh@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/hrishikesh-m-rao-443a1b22a](www.linkedin.com/in/hrishikesh-m-rao-443a1b22a)
+- 📄 Know about my experiences [HrishikeshMRao](www.linkedin.com/in/hrishikesh-m-rao-443a1b22a)
 
 - ⚡ Fun fact **I am human**
 
