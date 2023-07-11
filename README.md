@@ -1,7 +1,7 @@
 ![MasterHead](https://wallpapercave.com/wp/wp6830287.gif)
 <h1 align="center">Hi 👋, I'm Hrishikesh M Rao</h1>
 <h3 align="center">Hello visitor, I am an ECE undergraduate developing my IT skills. Majorly as an Android developer and a machine learning engineer.</h3>
-<img align="right" alt = "Coding" width="200" src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif">
+<img align="right" alt = "Coding" width="300" src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikeshmrao&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshmrao" /> </p>
 
