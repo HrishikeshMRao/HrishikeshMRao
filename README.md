@@ -1,7 +1,7 @@
-[![MasterHead](https://allaboutintelligence.files.wordpress.com/2020/09/artificial-intelligence.gif?w=1200)](https://HrishikeshMRao.io)
+[![MasterHead](https://wallpapercave.com/wp/wp6830287.gif)]
 <h1 align="center">Hi 👋, I'm Hrishikesh M Rao</h1>
 <h3 align="center">Hello visitor, I am an ECE undergraduate developing my IT skills. Majorly as an Android developer and a machine learning engineer.</h3>
-<img align="right" alt = "Coding" width="400" src="[https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)">
+<img align="right" alt = "Coding" width="400" src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikeshmrao&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshmrao" /> </p>
 
