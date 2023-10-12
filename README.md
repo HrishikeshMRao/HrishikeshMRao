@@ -7,9 +7,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishikeshmrao" alt="hrishikeshmrao" /></a> </p>
 <img align="center" alt = "Coding" width="1000" src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif">
 
+[![An image of @hrishikeshmrao's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hrishikeshmrao)](https://holopin.io/@hrishikeshmrao)
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Tetris game**
+- 🔭 I’m currently working on **Robotics Project**
 
 - 👨‍💻 All of my projects are available at [HrishikeshMRao](https://github.com/HrishikeshMRao)
 
