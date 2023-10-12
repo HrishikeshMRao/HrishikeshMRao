@@ -1,6 +1,6 @@
 ![MasterHead](https://wallpapercave.com/wp/wp6830287.gif)
 <h1 align="center">Hi 👋, I'm Hrishikesh M Rao</h1>
-<h3 align="center">Hello visitor, I am an ECE undergraduate developing my IT skills. Majorly as an Android developer and a machine learning engineer.</h3>
+<h3 align="center">Hello visitor, I am an ECE undergraduate developing my IT skills. Majorly as a Robotics / Electronics student and a machine learning engineer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrishikeshmrao&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshmrao" /> </p>
 
